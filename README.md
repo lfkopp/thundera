@@ -1,6 +1,8 @@
 # thundera
 ## Análise de frequencia de passageiros
 
+![Crowd](crowd.jpg)
+
 ### Problema: 
 Durante a pandemia, deve-se garantir o distanciamento social e em momentos de rush há um risco potencial de transmissão nas viagens. 
 Usuários irão trocar de meio de transporte por medo da lotação.  Assim, o problema é como operações e comunicação poderá garantir a qualidade de serviço e espaçamento social em momentos de rush. 
