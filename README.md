@@ -15,8 +15,20 @@ Estimar quantidade de passageiros em cada composição ao longo das viagens. Com
 * Id_composicao / num_carros / date_time chegada e saída da plataforma / estação
 
 ### Literatura:
+![Deep and Confident Prediction for Time Series at Uber](https://arxiv.org/pdf/1709.01907.pdf)
+![COVID-19 Data Analysis and Forecasting: Algeria and the World](https://arxiv.org/pdf/2007.09755)
 
-![Deep and Confident Prediction for Time Series at Uber](1709.01907.pdf)
+### Atividades:
+- [ ] Coleta e limpeza de dados
+- [ ] Modelagem dos grafos
+- [ ] Estimativa de Entrada e saída de passageiros por estação e sazonalidade
+- [ ] Teste com FB Prophet
+- [ ] Modelagem de anomalias / eventos / efeitos climáticos
+- [ ] Interface de comunicação
+- [ ] Ajuste para correção em tempo real
+- [ ] Visualização
+- [ ] Teste final
+
 ### Resultados:
 * Estimativa dos dados em t+1 atualizando online
 
