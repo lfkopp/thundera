@@ -10,9 +10,13 @@ Por exemplo, um passageiro às 16h, sem saber se haverá condições de distanci
 ### Escopo: 
 Estimar quantidade de passageiros em cada composição ao longo das viagens. Com isso, operações pode aumentar o tempo entre viagens em momentos de movimento fraco para priorizar o rush. 
 ### Dados:
+![Estações](mapa.png)
 * Estação / id_catraca / Entrada ou saída / date_time
 * Id_composicao / num_carros / date_time chegada e saída da plataforma / estação
 
+### Literatura:
+
+![Deep and Confident Prediction for Time Series at Uber](1709.01907.pdf)
 ### Resultados:
 * Estimativa dos dados em t+1 atualizando online
 
